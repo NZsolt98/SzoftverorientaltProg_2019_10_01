@@ -1,0 +1,6 @@
+D:\Nagy Zsolt\Stream\Stream\bin\Debug\Stream.exe.config
+D:\Nagy Zsolt\Stream\Stream\bin\Debug\Stream.exe
+D:\Nagy Zsolt\Stream\Stream\bin\Debug\Stream.pdb
+D:\Nagy Zsolt\Stream\Stream\obj\Debug\Stream_Server.csprojResolveAssemblyReference.cache
+D:\Nagy Zsolt\Stream\Stream\obj\Debug\Stream.exe
+D:\Nagy Zsolt\Stream\Stream\obj\Debug\Stream.pdb

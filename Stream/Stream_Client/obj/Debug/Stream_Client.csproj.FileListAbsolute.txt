@@ -1,0 +1,5 @@
+D:\Nagy Zsolt\Stream\Stream_Client\bin\Debug\Stream_Client.exe.config
+D:\Nagy Zsolt\Stream\Stream_Client\bin\Debug\Stream_Client.exe
+D:\Nagy Zsolt\Stream\Stream_Client\bin\Debug\Stream_Client.pdb
+D:\Nagy Zsolt\Stream\Stream_Client\obj\Debug\Stream_Client.exe
+D:\Nagy Zsolt\Stream\Stream_Client\obj\Debug\Stream_Client.pdb
