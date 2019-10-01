@@ -1,0 +1,6 @@
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\bin\Debug\PrimTermeloFogyaszto.exe.config
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\bin\Debug\PrimTermeloFogyaszto.exe
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\bin\Debug\PrimTermeloFogyaszto.pdb
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\obj\Debug\PrimTermeloFogyaszto.csprojResolveAssemblyReference.cache
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\obj\Debug\PrimTermeloFogyaszto.exe
+D:\Nagy Zsolt\PrimTermeloFogyaszto\PrimTermeloFogyaszto\obj\Debug\PrimTermeloFogyaszto.pdb
